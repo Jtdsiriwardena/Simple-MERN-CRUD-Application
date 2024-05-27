@@ -14,11 +14,11 @@ npm install express mongoose cors nodemon
 
 
 
-# 3. ype in the terminal
+# 3. Type in the terminal
 
 
-Start the server - cd server
+To start the server - cd server
                    node index.js
 
-Run the project -cd client
+T run the project -cd client
                  npm run dev
